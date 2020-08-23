@@ -1,16 +1,22 @@
-### Hi there 👋
+## + welcome -
 
-<!--
-**padulkemid/padulkemid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![padulkemid's github profile](https://img.shields.io/github/followers/padulkemid?label=Follow&style=social)](https://github.com/padulkemid)
 
-Here are some ideas to get you started:
+Hi! 🤟🏼My name is Fadhil, but you can call me Padul! 🤤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😈 This is my repo, all of my creations and stuffs made by me will be always
+uploaded here ( I mean my codes! 🤖 ). 
+- 😼 I like to explore new things, if you like it too, you could leave a
+    ⭐️! ( or 🍴 )
+- 🐲 Used [***nvim***](https://neovim.io) for everything. The best editor I've ever learned and
+    use. *The One for All*, you can't resist. Once you good at this, you'll say
+    goodbye for anything ( *even vscode* 😝 ).
+- 🤯 Feel free to contact me anytime, visit my
+    [***blog***](https://padulkem.id). I wrote stories there, please give me any
+    reaction or comments! That should do it. 👍🏼
+- 🚀 Most of the time I code *Javascript*, but lately I stumbled upon *Go* and
+    gonna give it a shot. *Wish me luck!* 🍀
+
+![padulkemid's top languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=padulkemid&hide=html)
+![padulkemid's github stats](https://github-readme-stats.vercel.app/api?username=padulkemid&show_icons=true&count_private=true&line_height=40)
+
