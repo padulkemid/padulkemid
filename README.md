@@ -8,8 +8,7 @@ Hi! 🤟🏼My name is Fadhil, but you can call me Padul! 🤤
 uploaded here ( I mean my codes! 🤖 ). 
 - 😼 I like to explore new things, if you like it too, you could leave a
     ⭐️! ( or 🍴 )
-- 🐲 I use [***nvim***](https://neovim.io) for everything. The best editor I've ever learned and
-    use. *The One for All*, you can't resist. Once you good at this, you'll say
+- 🐲 I use [***nvim***](https://neovim.io) for everything. The best editor I've ever learned. *The One for All*, you can't resist. Once you good at this, you'll say
     goodbye for anything ( *even vscode* 😝 ).
 - 🤯 Feel free to contact me anytime, visit my
     [***blog***](https://padulkem.id). I wrote stories there, please give me any
