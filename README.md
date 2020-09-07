@@ -13,7 +13,7 @@ uploaded here ( I mean my codes! 🤖 ).
 - 🤯 Feel free to contact me anytime, visit my
     [***blog***](https://padulkem.id). I wrote stories there, please give me any
     reaction or comments! That should do it. 👍🏼
-- 🚀 Most of the time I code *Javascript*, but lately I stumbled upon *Go* and
+- 🚀 Most of the time I code *Javascript* (and still learning!), but lately I stumbled upon *Go* and
     gonna give it a shot. *Wish me luck!* 🍀
 
 ![padulkemid's top languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=padulkemid&hide=html,css)
