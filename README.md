@@ -14,6 +14,6 @@ uploaded here ( I mean my codes! 🤖  ).
 - 🚀 Most of the time I code *Javascript* ( and still learning! ), but lately I stumbled upon *Go* and
     gonna give it a shot. *Wish me luck!* 🍀
 
-![padulkemid's top languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=padulkemid&hide=html,css,vue,objective-c,go,roff,java&langs_count=7)
+![padulkemid's top languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=padulkemid&hide=html,css,vue,objective-c&langs_count=4)
 ![padulkemid's github stats](https://github-readme-stats.vercel.app/api?username=padulkemid&show_icons=true&count_private=true&line_height=40&hide=issues)
 
