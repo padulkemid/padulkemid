@@ -4,7 +4,7 @@
 
 Hi! 🤟🏼My name is Fadhil, but you can call me Padul! 🤤
 
-- 😈 This is my repo, all of my creations and stuffs made by me will be always
+- 😈 This is my personal repo, all of my creations and stuffs made by me will be always
 uploaded here ( I mean my codes! 🤖  ). 
 - 😼 I like to explore new things, if you like it too, you could leave a
     ⭐️! ( or 🍴 )
