@@ -10,7 +10,7 @@ uploaded here ( I mean my codes! 🤖  ).
     ⭐️! ( or 🍴 )
 - 🤯 Feel free to contact me anytime, visit my
     [***blog***](https://padulkem.id). I wrote stories there, please give me any
-    reaction or comments! That should do it. 👍🏼
+    reaction or comments! 
 - 🚀 Most of the time I code *Javascript* for personal things and at my work, I mostly code in *Typescript*. I did tinker with *Go* and I wish I learn more about it! 🔗
 
 ![padulkemid's top languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=padulkemid&hide=html,css,vue,objective-c&langs_count=4)
