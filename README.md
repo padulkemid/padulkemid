@@ -13,6 +13,5 @@ uploaded here ( I mean my codes! 🤖  ).
     reaction or comments! 
 - 🚀 Most of the time I code *Javascript* for personal things and at my work, I mostly code in *Typescript*. I did tinker with *Go* and I wish I learn more about it! 🔗
 
-![padulkemid's top languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=padulkemid&hide=html,css,vue,objective-c&langs_count=4)
-![padulkemid's github stats](https://github-readme-stats.vercel.app/api?username=padulkemid&show_icons=true&count_private=true&line_height=40&hide=issues)
+[![padulkemid's github stats](https://raw.githubusercontent.com/padulkemid/padulkemid/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
