@@ -11,7 +11,7 @@ uploaded here ( I mean my codes! 🤖  ).
 - 🤯 Feel free to contact me anytime, visit my
     [***blog***](https://padulkem.id). I wrote stories there, please give me any
     reaction or comments! 
-- 🚀 I mostly code in *Typescript*. I did tinker with *Go* and I wish to learn more about it! 🔗
+- 🚀 Just jumped into *Functional Programming* and mastering *Elixir*! 🔗
 
 [![padulkemid's github stats](https://raw.githubusercontent.com/padulkemid/padulkemid/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
